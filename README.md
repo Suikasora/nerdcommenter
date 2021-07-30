@@ -1,4 +1,4 @@
-#<leader>ci ONLY
+# <leader>ci ONLY
 
 
 # NERD Commenter
